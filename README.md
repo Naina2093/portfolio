@@ -52,7 +52,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 <a href="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
 
-**Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/Power_of_Patients_Dashboard1/Story1)
+**Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/Power_of_Patients_Dashboard1/Story1) , Microsoft Excel
 
 **Achievements:**
 
@@ -65,7 +65,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 <a href="https://github.com/Naina2093/Investing-in-Nashville-Housing-Market">Real Estate Strategic Data Analysis: Nashville Housing</a>
 
-**Tools used:** Tableau, Python
+**Tools used:** Tableau, Python, Microsoft Excel
 
 **Achievements:**
 
@@ -88,7 +88,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 <a href="https://github.com/Naina2093/Text-Classification">Text Classification leveraging Neural Networks</a>
 
-**Tools used:** Python
+**Tools used:** Python, Microsoft Excel
 
 **Achievements:**
 
