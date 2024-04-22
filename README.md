@@ -1,5 +1,5 @@
 # Data Enthusiast
-<a href="[https://linkedin.com](https://www.linkedin.com/in/naina-gupta-313713189/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/naina-gupta-313713189/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Experienced Analyst with a Master’s in Data Analytics concentrating on Statistical Modeling (GPA 3.9/4).
@@ -50,7 +50,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 ## ACADEMIC PROJECT EXPERIENCE
 
-<a href="[https://google.com](https://github.com/Naina2093/Traumatic-Brain-Injuries-Project)">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
+<a href="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
 
 **Tools used:** SQL, R, Tableau
 
@@ -76,7 +76,7 @@ Proven track record in driving business growth through data-driven strategies an
 - Established Gradient Boosting technique as the top choice in predicting property overvaluation, with an impressive 87% precision.Leveraged predictive insights to identify key intervention strategies for real-estate problem-solving of Nashville buyers.
 
 
-<a href="[https://google.com](https://github.com/Swathi-Nadimpilli/Sentiment-Analysis)">Sentiment Analysis of Cable News Network (CNN) Website Posts</a>
+<a href="https://github.com/Swathi-Nadimpilli/Sentiment-Analysis">Sentiment Analysis of Cable News Network (CNN) Website Posts</a>
 
 **Tools used:** Tableau, Python
 
@@ -86,7 +86,7 @@ Proven track record in driving business growth through data-driven strategies an
   
 - Employed NLTK for comprehensive text preprocessing and TextBlob for sentiment analysis on text, to build and evaluate predictive models using TensorFlow, Keras, and scikit-learn, using Jupyter Notebook for interactive experimentation.
 
-<a href="[https://google.com](https://github.com/Naina2093/Text-Classification))">Text Classification leveraging Neural Networks</a>
+<a href="https://github.com/Naina2093/Text-Classification">Text Classification leveraging Neural Networks</a>
 
 **Tools used:** Python
 
