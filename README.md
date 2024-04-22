@@ -52,7 +52,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 <a href="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
 
-**Tools used:** SQL, R, Tableau
+**Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/Power_of_Patients_Dashboard1/Story1)
 
 **Achievements:**
 
@@ -78,7 +78,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 <a href="https://github.com/Swathi-Nadimpilli/Sentiment-Analysis">Sentiment Analysis of Cable News Network (CNN) Website Posts</a>
 
-**Tools used:** Tableau, Python
+**Tools used:** [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/CNNNewsPostsAsentimentAnalysis/Story1) , Python
 
 **Achievements:**
 
