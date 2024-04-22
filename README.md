@@ -13,7 +13,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 **Tools**: RStudio, Spyder, Jupyter Notebook, Microsoft SQL server, Oracle SQL Developer, Apache Spark, Microsoft Excel, SPSS 
 
-**Data Visualization**: Tableau, Microsoft Power BI, R Shiny, ggplot2, Matplotlib, Seaborn, Plotly, MS Excel
+**Data Visualization**: [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/vizzes) , Microsoft PowerBI, R Shiny, ggplot2, Matplotlib, Seaborn, Plotly, MS Excel
 
 -----------------------------
 
