@@ -62,7 +62,8 @@ Proven track record in driving business growth through data-driven strategies an
 
 - Developed Tableau dashboards to analyze patient data on symptom categories, age parameters, and precise head impact sites, devising a data analytics strategy with a Random Forest model that accurately predicts Traumatic Brain Injury (TBI) patients’ genders with 91.28% reliability.
 
-<a href="[https://google.com](https://github.com/Naina2093/Investing-in-Nashville-Housing-Market)"> Real Estate Strategic Data Analysis: Nashville Housing</a>
+
+<a href="https://github.com/Naina2093/Investing-in-Nashville-Housing-Market">Real Estate Strategic Data Analysis: Nashville Housing</a>
 
 **Tools used:** Tableau, Python
 
