@@ -52,7 +52,7 @@ Proven track record in driving business growth through data-driven strategies an
 
 <a href="https://github.com/Naina2093/Traumatic-Brain-Injuries-Project">Comprehensive Patient Data Analysis of Traumatic Brain Injuries</a>
 
-**Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/Power_of_Patients_Dashboard1/Story1) , Microsoft Excel
+**Tools used:** SQL, R, [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/viz/TraumaticBrainInjuryPatientsDataAnalysis/Story1) , Microsoft Excel
 
 **Achievements:**
 
