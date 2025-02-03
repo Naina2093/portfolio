@@ -2,18 +2,20 @@
 <a href="https://www.linkedin.com/in/naina-gupta-313713189/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Experienced Analyst with a Master’s in Data Analytics concentrating on Statistical Modeling (GPA 3.9/4).
+Experienced Analyst, with a Master’s in Data Analytics concentrated on Statistical Modeling (GPA 3.9/4).
 Skilled in Python, R, and SQL for extracting insights from complex datasets. 
 Proficient in Tableau and Power BI for data visualization. 
-Proven track record in driving business growth through data-driven strategies and effective communication with stakeholders.
+Proven track record of delivering scalable analytical solutions and extracting actionable insights from complex data sets to drive business growth.
+
+
 
 #### Technical Skills:
 -----------------------------
-**Programming Languages** : Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch), R, SQL 
+**Programming Languages** : SQL, Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch), R
 
-**Tools**: RStudio, Spyder, Jupyter Notebook, Microsoft SQL server, Oracle SQL Developer, Apache Spark, Microsoft Excel, SPSS 
+**Tools**: Jupyter Labs, MySQL, MS SQL Server, Oracle SQL, RStudio, MS Office, Google Analytics, Agile Scrum, Microsoft Excel (Pivot Tables, VLOOKUP, Data Analysis)
 
-**Data Visualization**: [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/vizzes) , Microsoft PowerBI, R Shiny, ggplot2, Matplotlib, Seaborn, Plotly, MS Excel
+**Data Visualization**: [Tableau](https://public.tableau.com/app/profile/naina.gupta2676/vizzes) , [Microsoft PowerBI](https://app.powerbi.com/groups/me/reports/90041c8f-9aff-4ea4-a009-0c1108205dd8/f198de6fa0cc10085d24?experience=power-bi&bookmarkGuid=4ca18afd1186d327ab77) , ggplot2, Matplotlib, Seaborn, Plotly, MS Excel
 
 -----------------------------
 
@@ -22,27 +24,29 @@ Proven track record in driving business growth through data-driven strategies an
 
 | Education                                          | University                      | Duration         |
 |----------------------------------------------------|---------------------------------|------------------|
-| Masters in Data Analytics & Statistical Modeling   | Northeastern University (Boston)| Sep 2022 - Mar 2024 |
+| Masters in Data Analytics & Statistical Modeling   | Northeastern University (Boston)| Sep 2022 - Apr 2024 |
 | Masters in Economics & Finance                    | Amity University                | Jul 2014 - Jul 2016 |
 | Bachelors in Economics & Statistics               | University of Delhi             | Jul 2011 - Jul 2014 |
 
 ## Work Experience
-**Data Analyst @ Investo Xpert Advisers Pvt. Ltd. (Jul 2021 - Jun 2022)**
+**Data Analytics Intern @ KARA Group (Jul 2024 – Present)**
+- Automated program data collection and integration, from multiple sources, reducing processing time by 80% and enabling a centralized database for streamlined analysis
+- Designed Power BI dashboards to visualize key child welfare program metrics, convincing leadership to identify service gaps and increase program engagement by 15%
+- Wrote complex SQL queries for large data aggregations and transformations, performing exploratory data analysis (EDA) to identify trends in program participation 
 
-- Worked on the development & deployment of targeted communication strategies for the team by analyzing property sales, rental rates, market demand, and investment opportunities, resulting in a notable 15% boost in client satisfaction and CRM performance.
-- Restructured portfolio performance metrics by building efficient Tableau pipelines to integrate market trends and business & financial risk datasets, resulting in a notable 20% improvement in the accuracy of data-driven pricing decisions.
-- Achieved a one-week reduction in project time for data analysis by developing and deploying reusable ETL components.
-- Communicated, effectively and promptly, with management regarding project issues and requirements, leading to the timely delivery of deliverables and improved management of business expectations.
-- Utilized Python and SQL with relational databases on the Quartz Platform to contribute to data analysis and management initiatives.
+**Data Analyst @ ABC Info Soft (Jun 2020 - Jul 2022)** 
+- Analyzed ERP usage patterns for 500+ clients by creating interactive dashboards using Presto and Tableau, boosting user productivity and product accuracy by 25%
+- Implemented A/B testing and root-cause analysis, evaluating key user metrics (DAU, MAU, Retention, Conversion) to identify and resolve data discrepancies for decision support
+- Managed and maintained end-to-end KPI dashboards, enhancing data transparency by 20%, enabling timely reporting and data accessibility for stakeholder communication
+- Conducted deep dives into data to identify patterns and trends, boosting visibility into inventory turnover and project timelines, driving a 20% rise in operational efficiency
 
-**Business Development Analyst @ Hydrop Water Solutions (Jul 2020 - May 2021)**
+**Data Analyst @ InvestoXpert Advisors (Jun 2019 - May 2020)**
+- Collaborated with cross-functional teams to ensure accurate requirements gathering and to produce detailed reports and documentation for clients and business stakeholders
+- Transformed property data using Python and SQL, identified preference patterns and facilitated CRM targeted communication strategies, improving client satisfaction by 25%
+- Restructured KPIs and built automated Power BI pipelines using DAX and Power Query, providing real-time insights into pricing trends and enhancing cost precision by 20%
+- Created customer segmentation dashboards in Power BI, focusing on key metrics like sign-ups and retention, driving targeted decision-making for marketing and sales teams
 
-- Designed strategies for data analytics discoveries and authored customer interactive blogs to disseminate pivotal insights from Tableau dashboards, resulting in a nearly 25% surge in website traffic and engagement metrics.
-- Planned and developed a generalized linear regression model using real-time data on urban population, family structure, income levels, and daily per-person water demand to refine customer database assessment within Bangalore city, resulting in saving 90 hours of monthly labor.
-- Engaged directly with business stakeholders to gain insights into their activities, subsequently crafting comprehensive documentation.
-- Supported data governance processes and framework, including but not limited to Enterprise data management (EDM).
-
-**Economic Research Intern @ Social and Political Research Foundation (Jan 2020 - Jun 2020)**
+**Economic Research Intern @ Social and Political Research Foundation (Jan 2019 - Jun 2019)**
 
 - Collaboratively gathered data and conducted qualitative analysis on traditional knowledge practices in India, reporting an issue brief with key findings that were published for government officials and policymakers nationwide. [link](https://sprf.in/traditional-knowledge-and-bio-piracy-in-india/)
 - Researched and analyzed data, producing a published report on "One Nation One Ration Card" policy which garnered increased support towards a problem-solving initiative for over 800 million people. [link](https://sprf.in/the-one-nation-one-ration-card-scheme-an-evaluation/)
