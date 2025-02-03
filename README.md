@@ -1,10 +1,9 @@
-# Data Enthusiast
+# Data Professional | Insights & Strategy
 <a href="https://www.linkedin.com/in/naina-gupta-313713189/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Experienced Analyst, with a Master’s in Data Analytics concentrated on Statistical Modeling (GPA 3.9/4).
-Skilled in Python, R, and SQL for extracting insights from complex datasets. 
-Proficient in Tableau and Power BI for data visualization. 
+Experienced Data Analyst, with a Master’s in Data Analytics concentrated on Statistical Modeling (GPA 3.9/4).
+Proficient in SQL for data querying and transformation, Python & R for data cleaning and machine learning, and Tableau & Power BI for impactful data visualization.
 Proven track record of delivering scalable analytical solutions and extracting actionable insights from complex data sets to drive business growth.
 
 
